@@ -1,0 +1,164 @@
+@import url('https://cdn-uicons.flaticon.com/2.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;800&display=swap);
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    border: none;
+    background: unset;
+}
+body{
+    background-color: #0A111F;
+    font-family: 'Open Sans', sans-serif;
+}
+.content{
+    margin: auto;
+    max-width: 1200px;
+}
+.logo{
+    font-size: 50px;
+    color: #fff;
+}
+.logo1{
+    color: blue;
+}
+.row{
+    display: flex;
+    gap: 250px;
+    color: #fff;
+    border-bottom: 1px solid #7dba28;
+}
+.box{
+    display: flex;
+}
+.row ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    color: #fff;
+}
+a{
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0 0 0;
+}
+.ul1{
+    color: #fff;  
+}
+.div1{
+    color:#fff;
+    display: flex;
+    gap: 16px;
+    padding: 20px 0 0 0;
+}
+.div1 ul li{
+    padding: 30px 0 0 0;
+    font-weight: 500;
+}
+.li1{
+    color: blue;
+}
+.li2{
+    font-size: 50px;
+}
+.li3{
+    margin-bottom: 80px;
+}
+.btn_group {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+a.btn{
+    margin: 18px 0 0 0;
+    color: #fff;
+    padding: 10px 20px;
+    border: 2px solid #7dba28;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: #7dba28;
+    display: inline-flex;
+    gap: 10px;
+}
+.svg1 img{
+    display: inline-flex;
+    gap: 100px;
+    padding: 20px 30px;
+}
+.row2{
+    display: flex;
+    border-top: 1px solid #7dba28;
+}
+.ul2{
+    color: #fff;
+    padding: 100px 0 0 10px;
+}
+.li4{
+    padding: 40px 0;
+    font-size: 35px;    
+}
+.li5{
+    padding: 0 20px 40px 0;
+    font-size: 14px;
+}
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+  .swiper-slide{
+    color: #fff;
+    text-align: center;
+  }
+  .swiper-slide img{
+    align-items: center;
+    justify-content: center;
+  }
+  .div2{
+    display: flex;
+    border-top: 2px solid #7dba28;
+    padding: 40px 0;
+    gap: 40px;
+  }
+  .ul3{
+    color: #fff;
+  }
+  .li6{
+    font-size: 40px;
+    padding: 40px 0;
+  }
+  .li7{
+    font-size: 16px;
+    width: 460px;
+    padding: 20px 0;
+  }
+  .box{
+    color: #fff;
+    border-top: 2px solid #7dba28;
+  }
+  .box2{
+    width: 270px;
+  }
+  .box2 li{
+      padding: 6px 0;
+  }
+  .box3{
+    display: flex;
+    gap: 9px;
+  }
+  .li8{
+    color: blue;
+  }
+  .box4{
+    padding: 0px 20px;
+    width: 270px;
+  }
+  .li9{
+    padding: 12px 0;
+  }
+  .box4 li{
+   
+    padding: 20px 0;
+  }
